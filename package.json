@@ -1,8 +1,8 @@
 {
-  "name": "react-native-ble",
+  "name": "react-native-ble-15",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacobrosenthal/react-native-ble.git"
+    "url": "https://github.com/pebblecode/react-native-ble.git"
   },
   "browser": {
     "events": "events",
@@ -17,7 +17,7 @@
   },
   "nativePackage": true,
   "peerDependencies": {
-    "react-native": "^0.11.0"
+    "react-native": "^0.15.0"
   },
   "keywords": [
     "react-native",
